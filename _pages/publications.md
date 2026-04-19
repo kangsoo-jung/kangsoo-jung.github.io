@@ -5,85 +5,117 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.pub-list {
+  font-size: 0.9em;
+  line-height: 1.3;
+}
+
+.pub-item {
+  margin-bottom: 8px;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-venue {
+  font-style: italic;
+}
+
+.pub-authors {
+  color: #333;
+}
+
+.pub-meta {
+  color: #666;
+  font-size: 0.9em;
+}
+</style>
+
 ## Journal Articles
 
-1. **Marlon Tobaben, Mohamed Ali Souibgui, Rubèn Tito, Kangsoo Jung, Raouf Kerkouche, Kangsoo Jung, Joonas Jälkö et al.**  
-   “NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA”,  
-   *Transactions on Machine Learning Research (TMLR)*, pp.1–33, 06.2025.
+<div class="pub-list">
 
-2. **Filippo Galli, Kangsoo Jung, Sayan Biswas, Catuscia Palamidessi, Tommaso Cucinotta.**  
-   “Advancing Personalized Federated Learning: Group Privacy, Fairness, and Beyond”,  
-   *SN Computer Science*, Vol. 4, No. 6, pp.831, 10.2023.
+<div class="pub-item">
+<span class="pub-title">NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA</span><br>
+<span class="pub-authors">Tobaben, M., Souibgui, M. A., Tito, R., Jung, K., et al.</span><br>
+<span class="pub-venue">Transactions on Machine Learning Research (TMLR)</span>, <span class="pub-meta">2025</span>
+</div>
 
-3. **Kangsoo Jung, Sayan Biswas, Catuscia Palamidessi.**  
-   “Establishing the Price of Privacy in Federated Data Trading”,  
-   in *Protocols, Strands, and Logic: Essays Dedicated to Joshua Guttman on the Occasion of his 66.66th Birthday*,  
-   LNCS, pp.232–250, 11.2021.
+<div class="pub-item">
+<span class="pub-title">Advancing Personalized Federated Learning: Group Privacy, Fairness, and Beyond</span><br>
+<span class="pub-authors">Galli, F., Jung, K., Biswas, S., Palamidessi, C.</span><br>
+<span class="pub-venue">SN Computer Science</span>, <span class="pub-meta">2023</span>
+</div>
 
-4. **Kangsoo Jung, Seog Park.**  
-   “An Adaptive Grid and Incentive Mechanism for Personalized Differentially Private Location Data in the Local Setting”,  
-   *Mobile Information Systems*, Vol.2020, pp.1–12, 12.2020.
+<div class="pub-item">
+<span class="pub-title">Establishing the Price of Privacy in Federated Data Trading</span><br>
+<span class="pub-authors">Jung, K., Biswas, S., Palamidessi, C.</span><br>
+<span class="pub-venue">LNCS</span>, <span class="pub-meta">2021</span>
+</div>
 
-5. **Taewhan Kim, Kangsoo Jung, Seog Park.**  
-   “Sparsity Reduction Technique using Grouping Method for Matrix Factorization in Differentially Private Recommendation Systems”,  
-   *IEICE Transactions on Information and Systems*, Vol.103, No.7, pp.1683–1692, 07.2020.
+<div class="pub-item">
+<span class="pub-title">An Adaptive Grid and Incentive Mechanism for Personalized Differentially Private Location Data</span><br>
+<span class="pub-authors">Jung, K., Park, S.</span><br>
+<span class="pub-venue">Mobile Information Systems</span>, <span class="pub-meta">2020</span>
+</div>
 
-6. **Geonhyoung Jo, Kangsoo Jung, Seog Park.**  
-   “An Adaptive Window Size Selection Method for Differentially Private Data Publishing over Infinite Trajectory Stream”,  
-   *Journal of Advanced Transportation*, Vol.28, No.12, pp.1–12, 10.2018.
+<div class="pub-item">
+<span class="pub-title">Sparsity Reduction Technique for Differentially Private Recommendation Systems</span><br>
+<span class="pub-authors">Kim, T., Jung, K., Park, S.</span><br>
+<span class="pub-venue">IEICE Transactions</span>, <span class="pub-meta">2020</span>
+</div>
+
+<div class="pub-item">
+<span class="pub-title">Adaptive Window Size Selection for Differentially Private Data Publishing</span><br>
+<span class="pub-authors">Jo, G., Jung, K., Park, S.</span><br>
+<span class="pub-venue">Journal of Advanced Transportation</span>, <span class="pub-meta">2018</span>
+</div>
+
+</div>
 
 ---
 
 ## Conference Papers
 
-1. **Andreas Athanasiou, Kangsoo Jung, Catuscia Palamidessi.**  
-   “Protection against Source Inference Attacks in Federated Learning”,  
-   *International Conference on Learning Representations (ICLR)*, 04.2026. Accepted.
+<div class="pub-list">
 
-2. **Kangsoo Jung, Sayan Biswas, Catuscia Palamidessi.**  
-   “Mitigating Membership Inference Vulnerability in Iterative Federated Clustering Algorithm”,  
-   *International Conference on Computer and Communications Security (CCS)*,  
-   Workshop: *Recent Advances in Resilient and Trustworthy Machine-Learning Driven Systems*, 10.2025.
+<div class="pub-item">
+<span class="pub-title">Protection against Source Inference Attacks in Federated Learning</span><br>
+<span class="pub-authors">Athanasiou, A., Jung, K., Palamidessi, C.</span><br>
+<span class="pub-venue">ICLR</span>, <span class="pub-meta">2026</span>
+</div>
 
-3. **Mohamed Ali Souibgui, Changkyu Choi, Andrey Barsky, Kangsoo Jung, Ernest Valveny, Dimosthenis Karatzas.**  
-   “DocVXQA: Context-Aware Visual Explanations for Document Question Answering”,  
-   *International Conference on Machine Learning (ICML)*, 07.2025.
+<div class="pub-item">
+<span class="pub-title">Mitigating Membership Inference Vulnerability in IFCA</span><br>
+<span class="pub-authors">Jung, K., Biswas, S., Palamidessi, C.</span><br>
+<span class="pub-venue">CCS Workshop</span>, <span class="pub-meta">2025</span>
+</div>
 
-4. **Andreas Athanasiou, Kangsoo Jung, Catuscia Palamidessi.**  
-   “Poster: Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling”,  
-   *International Conference on Computer and Communications Security (CCS)*, 10.2024.
+<div class="pub-item">
+<span class="pub-title">DocVXQA: Context-Aware Visual Explanations for Document QA</span><br>
+<span class="pub-authors">Souibgui, M. A., Choi, C., Barsky, A., Jung, K.</span><br>
+<span class="pub-venue">ICML</span>, <span class="pub-meta">2025</span>
+</div>
 
-5. **Rubèn Tito, Khanh Nguyen, Marlon Tobaben, Raouf Kerkouche, Mohamed Ali Souibgui, Kangsoo Jung, Joonas Jälkö, Vincent Poulain D'Andecy, Aurelie Joseph, Lei Kang, Ernest Valveny, Antti Honkela, Mario Fritz, Dimosthenis Karatzas.**  
-   “Privacy-Aware Document Visual Question Answering”,  
-   *International Conference on Document Analysis and Recognition (ICDAR)*, 09.2024.
+<div class="pub-item">
+<span class="pub-title">Privacy-Aware Document Visual Question Answering</span><br>
+<span class="pub-authors">Tito, R., Nguyen, K., Jung, K., et al.</span><br>
+<span class="pub-venue">ICDAR</span>, <span class="pub-meta">2024</span>
+</div>
 
-6. **Ruta Binkyte, Carlos Antonio Pinzón, Szilvia Lestyán, Kangsoo Jung, Héber Hwang Arcolezi, Catuscia Palamidessi.**  
-   “Causal Discovery Under Local Privacy”,  
-   *Causal Learning and Reasoning*, 02.2024.
+<div class="pub-item">
+<span class="pub-title">Causal Discovery Under Local Privacy</span><br>
+<span class="pub-authors">Binkyte, R., Pinzón, C., Jung, K., et al.</span><br>
+<span class="pub-venue">CLeaR</span>, <span class="pub-meta">2024</span>
+</div>
 
-7. **Sayan Biswas, Kangsoo Jung, Catuscia Palamidessi.**  
-   “Incentive Mechanism for Trading Personal Data in Data Markets”,  
-   *International Colloquium on Theoretical Aspects of Computing (ICTAC)*, 09.2021. Oral presentation.
+<div class="pub-item">
+<span class="pub-title">PRIVATA: Differentially Private Data Market Framework</span><br>
+<span class="pub-authors">Jung, K., Lee, J., Park, S.</span><br>
+<span class="pub-venue">CIKM</span>, <span class="pub-meta">2019</span>
+</div>
 
-8. **Kangsoo Jung, Junkyu Lee, Kunyoung Park, Seog Park.**  
-   “PRIVATA: Differentially Private Data Market Framework using Negotiation-based Pricing Mechanism”,  
-   *International Conference on Information and Knowledge Management (CIKM)*, Demo track, 11.2019.
-
-9. **Kangsoo Jung, Seog Park.**  
-   “Peer-to-Peer Collaborative Caching for Privacy-Preserving Location-based Services”,  
-   *ACM Symposium on Cloud Computing (SoCC)*, Poster, 08.2015.
-
-10. **Kangsoo Jung, Junkyu Lee, Seog Park.**  
-    “Hiding a Needle in a Haystack: Privacy Preserving Apriori algorithm in MapReduce Framework”,  
-    *International Conference on Information and Knowledge Management (CIKM)*,  
-    Workshop: *Privacy and Security of Big Data*, 11.2014.
-
-11. **Hangyoung Go, Kangsoo Jung, Seog Park.**  
-    “An Anonymization Technique in Preserving Uniform Distribution of Sensitive Values”,  
-    *International Conference on Emerging Databases*, 08.2011. Best Paper Award.
-
-12. **Jaehoon Kim, Kangsoo Jung, Seog Park.**  
-    “An Introduction to Authorization Conflict Problem in RDF Access Control”,  
-    *International Conference on Knowledge-Based Intelligent Information and Engineering Systems (KES)*, 09.2008.
-
+</div>
 
